@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ovusm.github.io/ufy/sitemap.ufy.gz
